@@ -13,8 +13,22 @@ A local AI chat application using DeepSeek with a sleek PyQt5 GUI.
 
 ```bash
 ollama pull deepseek-r1:8b
-
+```
 ---
 
 ## Multiple_models_with_gui.ipynb
+```bash
+ollama run deepseek-r1:8b
+ollama run deepseek-coder:6.7b	
+ollama run deepseek-coder-v2:16b
+ollama run llama3.1:8b
+ollama run qwen2.5:14b
+ollama run codellama:13b
+ollama pull gpt-oss:20b
+ollama pull qwen3-coder:30b
+```
+
+- There is a dropdown where we can select model of our choice, and response will be generated accordingly.
+
+- Simple, user friendly GUI
 
