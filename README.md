@@ -17,7 +17,7 @@ ollama pull deepseek-r1:8b
 ---
 ---
 
-## multiple_models_with_gui.ipynb
+# WORKING APP: multiple_models_with_gui.ipynb
 
 - I've used these open source models:
   
