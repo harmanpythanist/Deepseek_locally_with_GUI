@@ -15,6 +15,7 @@ A local AI chat application using DeepSeek with a sleek PyQt5 GUI.
 ollama pull deepseek-r1:8b
 ```
 ---
+---
 
 ## Multiple_models_with_gui.ipynb
 
