@@ -23,7 +23,6 @@ Model I've used in these files is:
 
 - deepseek-r1:8b
 
----
 
 # multiple_models_with_gui.ipynb
 
