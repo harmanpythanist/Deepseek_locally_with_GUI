@@ -21,7 +21,9 @@ ollama pull deepseek-r1:8b
 
 - ```deekseek_model_chat_rememberance.ipynb``` chatbot remember previous conversation, simple gui
 
-- ``better_gui.ipynb``` better gui
+- ```better_gui.ipynb``` better gui
+
+These are 3 simple files. I suggest you to review and understand these first.
 
 
 
