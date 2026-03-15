@@ -15,9 +15,17 @@ A local AI chat application using DeepSeek with a sleek PyQt5 GUI.
 ollama pull deepseek-r1:8b
 ```
 ---
+
+
+```deepseek_model_simple_chat.ipynb``` and ```deekseek_model_chat_rememberance.ipynb``` are working files with SIMPLE gui. 
+
+Model I've used in these files is: 
+
+- deepseek-r1:8b
+
 ---
 
-# WORKING APP: multiple_models_with_gui.ipynb
+# BETTER GUI and FUNCTIONALITIES: multiple_models_with_gui.ipynb
 
 - I've used these open source models:
   
