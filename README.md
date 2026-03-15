@@ -17,11 +17,13 @@ ollama pull deepseek-r1:8b
 ---
 
 
-```deepseek_model_simple_chat.ipynb``` and ```deekseek_model_chat_rememberance.ipynb``` are working files with SIMPLE gui. 
+- ```deepseek_model_simple_chat.ipynb``` simple chat, simple gui
 
-Model I've used in these files is: 
+- ```deekseek_model_chat_rememberance.ipynb``` chatbot remember previous conversation, simple gui
 
-- deepseek-r1:8b
+- ``better_gui.ipynb``` better gui
+
+
 
 
 # multiple_models_with_gui.ipynb
