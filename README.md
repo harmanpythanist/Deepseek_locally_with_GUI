@@ -25,8 +25,9 @@ Model I've used in these files is:
 
 ---
 
-# BETTER GUI and FUNCTIONALITIES: multiple_models_with_gui.ipynb
+# multiple_models_with_gui.ipynb
 
+- Better gui and functionalities 
 - I've used these open source models:
   
 ```bash
