@@ -48,3 +48,14 @@ ollama pull qwen3-coder:30b
 
 - Simple, user friendly GUI
 
+
+# Deepseek_locally_with_GUI/rag_model_fly_fazaia_test/rag_test.ipynb
+
+- Chatbot that answer to queries based on our instructions
+- In file:
+  - Loads the instructions file
+  - Prepare and save refined data
+  - Load refined data
+  - Initializes the chat
+    
+
