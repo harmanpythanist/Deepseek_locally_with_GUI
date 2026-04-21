@@ -28,7 +28,7 @@ These are 3 simple files. I suggest you to review and understand these first.
 
 
 
-# multiple_models_with_gui.ipynb
+# Better_gui_and_more_models/multiple_models_with_gui.ipynb
 
 - Better gui and functionalities 
 - I've used these open source models:
@@ -49,7 +49,7 @@ ollama pull qwen3-coder:30b
 - Simple, user friendly GUI
 
 
-# Deepseek_locally_with_GUI/rag_model_fly_fazaia_test/rag_test.ipynb
+# rag_model_fly_fazaia_test/rag_test.ipynb
 
 - Chatbot that answer to queries based on our instructions
 - In file:
